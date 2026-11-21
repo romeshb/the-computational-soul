@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: The Computational Soul
+  structure:
+    - type: space
+      key: the-computational-soul
+      title: The Computational Soul
+      path: the-computational-soul
+      default: true
+      content:
+        directory: /
