@@ -31,4 +31,4 @@ Rescuing computational functionalism from arbitrary abstraction requires a first
 
 ---
 
-*Previous: [6. Metaphysics of Identity](01-metaphysics-of-identity.md) | Next: [8. Active Inference & The Free Energy Principle](03-active-inference-and-fep.md)*
+*Previous: [6. The Metaphysics of Identity and The Illusion of the Closed Self](01-metaphysics-of-identity.md) | Next: [8. Active Inference and The Free Energy Principle](03-active-inference-and-fep.md)*

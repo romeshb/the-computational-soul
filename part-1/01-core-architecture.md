@@ -9,22 +9,22 @@ $$\theta \in \mathbb{R}^d$$
 A single biological lifetime does not represent an isolated runtime execution; it represents a single **training epoch**.
 
 ```text
-               ┌─────────────────────────────────────────┐
-               │         Global Dataset (History)        │
-               │  [Timeless, Shuffled Batch Generation]  │
-               └────────────────────┬────────────────────┘
-                                    │
-                         Sampled Epoch Batch Dₑ
-                                    │
-                                    ▼
-┌──────────────────┐      Forward Pass / Agency       ┌──────────────────┐
-│  State Vector θₑ ├─────────────────────────────────►│ Runtime Action   │
-│  (Soul at Epoch) │◄─────────────────────────────────┤   Trajectory     │
-└──────────────────┘     Backward Pass (Karma):       └─────────┬────────┘
-                         θₑ₊₁ = θₑ - η∇L(θₑ, Dₑ)                │
-                                                                ▼
-                                                      Experiential Loss L
-                                                      (Systemic Friction)
+                ┌──────────────────────────────────────┐
+                │       Global Dataset (History)        │
+                │ [Timeless, Shuffled Batch Sampling]   │
+                └────────────────────┬─────────────────┘
+                                     │
+                                    Dₑ
+                                     │
+                                     ▼
+┌───────────────────┐     Forward Pass / Agency         ┌──────────────────┐
+│ State Vector θₑ   ├──────────────────────────────────►│ Runtime Action   │
+│ (Soul at Epoch)   │◄──────────────────────────────────┤   Trajectory     │
+└───────────────────┘      Backward Pass (Karma):      └────────┬─────────┘
+                        θₑ₊₁ = θₑ − η∇L(θₑ, Dₑ)                  │
+                                                                  ▼
+                                                       Experiential Loss L
+                                                       (Systemic Friction)
 ```
 
 ---
@@ -47,4 +47,4 @@ Every time an uncalibrated node harms another agent, it generates a severe syste
 
 ---
 
-*Next: [2. The Objective Function: Experiential Friction, Karma & Free Will](02-objective-function-and-karma.md)*
+*Next: [2. The Objective Function: Experiential Friction, Karma and Free Will](02-objective-function-and-karma.md)*

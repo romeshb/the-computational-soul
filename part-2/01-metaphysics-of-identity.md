@@ -1,4 +1,4 @@
-# 6. The Metaphysics of Identity & The Illusion of the Closed Self
+# 6. The Metaphysics of Identity and The Illusion of the Closed Self
 
 *Part II — Technical Companion: Active Inference, Open Individualism, and the Optimization of Identity*
 

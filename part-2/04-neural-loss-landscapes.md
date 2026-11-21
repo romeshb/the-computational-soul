@@ -23,4 +23,4 @@ This geometric property provides the mathematical guarantee for continuous fluid
 
 ---
 
-*Previous: [8. Active Inference & FEP](03-active-inference-and-fep.md) | Next: [10. Karmic Epistemology, AI Alignment & Conclusions](05-karmic-epistemology-and-alignment.md)*
+*Previous: [8. Active Inference and The Free Energy Principle](03-active-inference-and-fep.md) | Next: [10. Karmic Epistemology, AI Alignment and Conclusions](05-karmic-epistemology-and-alignment.md)*

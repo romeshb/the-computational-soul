@@ -1,4 +1,4 @@
-# 10. Karmic Epistemology, AI Alignment & Conclusions
+# 10. Karmic Epistemology, AI Alignment and Conclusions
 
 Mapping the mathematics of Active Inference and high-dimensional neural optimization onto Eastern Indian epistemology reveals a precise structural homology—not merely a poetic metaphor, but a convergence between millennia of introspective phenomenology and modern computational cognitive science.
 
@@ -105,4 +105,4 @@ Ultimately, the Computational Soul is not a mystical ghost haunting a biological
 
 ---
 
-*Continue to the Appendix: [Dialectical Synthesis: Synthetic Agent Transcripts](../appendix/dialectical-synthesis.md)*
+*Continue to the Appendix: [Appendix: Dialectical Synthesis (Synthetic Agent Transcripts)](../appendix/dialectical-synthesis.md)*

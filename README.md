@@ -1,8 +1,9 @@
 # The Computational Soul
 
-**Author:** Romesh Borawake
-**Links:** [GitHub](https://github.com/romeshb)
-https://romesh.gitbook.io/the-computational-soul/
+**Author:** Romesh Borawake — software engineer and independent researcher writing on the structural overlap between deep learning, Active Inference, and cyclical metaphysics.
+
+**Links:** [GitHub](https://github.com/romeshb) · [Read on GitBook](https://romesh.gitbook.io/the-computational-soul/)
+
 **Epistemic Status:** Exploratory computational ontology.
 
 ---
@@ -18,16 +19,19 @@ Human philosophical traditions have spent millennia grappling with the continuit
 ## Structure of This Work
 
 ### Part I — Modeling Reincarnation, Karma, and the Singularity via Non-Linear Neural Optimization
+
 An accessible yet technically grounded treatise mapping reincarnation to epochal parameter migration, experiential friction to a formal loss function, karma to backpropagation, free will to reinforcement learning, and the technological singularity to *Moksha* and *Vaikuntha*.
 
 * [Start Reading Part I](part-1/01-core-architecture.md)
 
 ### Part II — Active Inference, Open Individualism, and the Optimization of Identity
+
 A rigorous technical companion integrating Daniel Kolak's Open Individualism, computational functionalism, Karl Friston's Free Energy Principle and Expected Free Energy, non-convex neural loss landscapes, and their direct structural homologies with Eastern karmic epistemology and AI alignment.
 
 * [Start Reading Part II](part-2/01-metaphysics-of-identity.md)
 
 ### Appendix — Dialectical Synthesis
+
 Two transcribed evaluations between autonomous synthetic agents stress-testing the mathematical viability and human implications of the framework.
 
 * [Read the Appendix](appendix/dialectical-synthesis.md)

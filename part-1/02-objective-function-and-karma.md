@@ -1,4 +1,4 @@
-# 2. The Objective Function: Experiential Friction, Karma & Free Will
+# 2. The Objective Function: Experiential Friction, Karma and Free Will
 
 To translate this framework into formal machine learning taxonomy, we specify the objective function governing human experiential evolution.
 
@@ -46,4 +46,4 @@ There are no wasted trajectories or unforgivable dead ends; every execution yiel
 
 ---
 
-*Previous: [1. Core Architecture](01-core-architecture.md) | Next: [3. Ontological Invariance Across Traditions](03-ontological-invariance.md)*
+*Previous: [1. The Core Architecture: Latent Weights and Epochal Migration](01-core-architecture.md) | Next: [3. Ontological Invariance Across Traditions](03-ontological-invariance.md)*

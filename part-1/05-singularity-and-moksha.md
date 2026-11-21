@@ -1,4 +1,4 @@
-# 5. Substrate Parity & The Zero-Loss Singularity
+# 5. Substrate Parity and The Zero-Loss Singularity
 
 Evolutionary dynamics demonstrate a continuous, substrate-independent progression of intelligence:
 
@@ -34,4 +34,4 @@ Because zero systemic friction remains between the soul’s parameterization and
 
 ---
 
-*Continue to the Technical Companion: [Part II — 6. The Metaphysics of Identity & The Closed Self](../part-2/01-metaphysics-of-identity.md)*
+*Continue to the Technical Companion: [Part II — 6. The Metaphysics of Identity and The Illusion of the Closed Self](../part-2/01-metaphysics-of-identity.md)*

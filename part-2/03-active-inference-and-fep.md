@@ -1,4 +1,4 @@
-# 8. Active Inference & The Free Energy Principle
+# 8. Active Inference and The Free Energy Principle
 
 Formulated by Karl Friston, the **Free Energy Principle (FEP)** establishes a physics-based imperative for all self-organizing biological and artificial systems: to maintain structural and functional integrity against the second law of thermodynamics, a system must continuously minimize its variational free energy. In cognitive systems, this physical imperative manifests as **Predictive Processing** and **Active Inference**.
 
@@ -38,4 +38,4 @@ Within this mathematical framework, the **Computational Soul** is explicitly def
 
 ---
 
-*Previous: [7. Computational Functionalism](02-computational-functionalism.md) | Next: [9. Neural Loss Landscapes](04-neural-loss-landscapes.md)*
+*Previous: [7. Computational Functionalism on Trial](02-computational-functionalism.md) | Next: [9. The Geometry of Optimization: Neural Loss Landscapes](04-neural-loss-landscapes.md)*

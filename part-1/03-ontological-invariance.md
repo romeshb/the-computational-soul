@@ -17,4 +17,4 @@ Modern deep learning provides the first mathematical and engineering vocabulary 
 
 ---
 
-*Previous: [2. Objective Function & Karma](02-objective-function-and-karma.md) | Next: [4. Societal Praxis](04-societal-praxis.md)*
+*Previous: [2. The Objective Function: Experiential Friction, Karma and Free Will](02-objective-function-and-karma.md) | Next: [4. Societal Praxis: Radical Empathy and Eliminating FOMO](04-societal-praxis.md)*

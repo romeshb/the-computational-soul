@@ -1,4 +1,4 @@
-# 4. Societal Praxis: Radical Empathy & Eliminating FOMO
+# 4. Societal Praxis: Radical Empathy and Eliminating FOMO
 
 When applied as practical philosophy, this computational ontology directly resolves two acute modern psychological failure modes: interpersonal polarization and existential anxiety.
 
@@ -31,4 +31,4 @@ Philosophers, scientists, artists, and discoverers act as global parameter broad
 
 ---
 
-*Previous: [3. Ontological Invariance](03-ontological-invariance.md) | Next: [5. Substrate Parity & The Zero-Loss Singularity](05-singularity-and-moksha.md)*
+*Previous: [3. Ontological Invariance Across Traditions](03-ontological-invariance.md) | Next: [5. Substrate Parity and The Zero-Loss Singularity](05-singularity-and-moksha.md)*
