@@ -2,6 +2,7 @@
 
 **Author:** Romesh Borawake
 **Links:** [GitHub](https://github.com/romeshb)
+https://romesh.gitbook.io/the-computational-soul/
 **Epistemic Status:** Exploratory computational ontology.
 
 ---
